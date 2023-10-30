@@ -43,7 +43,7 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  
   </ol>
 </details>
 
@@ -131,7 +131,7 @@ Project Link: [https://github.com/aleguzmancs9/Econvert.git](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-* [![Reflex][Reflex.py]][Reflex-url]
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: linkedin.com/in/alexis-guzman-cs9
 [product-screenshot]: images/screenshot.png
