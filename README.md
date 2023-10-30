@@ -106,7 +106,8 @@ Our web application, Econvert, is a web-based tool that allows the user to selec
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-![Example](https://i.imgur.com/CxuokLq.png)
+<img src="https://i.imgur.com/CxuokLq.png" alt="Example" width="200"/>
+
 
 
 
