@@ -107,10 +107,9 @@ Our web application, Econvert, is a web-based tool that allows the user to selec
 ## Usage
 
 <div style="display: flex;">
-  <img src="https://i.imgur.com/CxuokLq.png" alt="Example1" width="200" style="margin-right: 20px;" />
-  <img src="https://i.imgur.com/8fPyC5l.png" alt="Example2" width="200" />
+  <img src="https://i.imgur.com/8fPyC5l.png" alt="Example1" width="200" style="margin-right: 20px;" />
+  <img src="https://i.imgur.com/CxuokLq.png" alt="Example2" width="200" />
 </div>
-
 
 
 
