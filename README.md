@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/Econvert">
-    <img src="https://imgur.com/zDKQP3U" alt="Logo" width="400" height="400">
+    <img src="https://i.imgur.com/ihu3AoY.png" alt="Logo" width="400" height="400">
   </a>
 
 <h3 align="center">Econvert</h3>
