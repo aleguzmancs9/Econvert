@@ -51,8 +51,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![logo][product-screenshot]](https://example.com)
+Our web application, Econvert, is a web-based tool that allows the user to select any currency (euros, mexican pesos, pounds, yen, etc), any ancient currencies (shekels, romanian currency, silver coins, etc), and even in-game currencies (vbucks, robux, rocket league credits, etc). The application frontend and backend is managed all in Python, by importing the Reflex API to create our starting HTML, CSS, and JavaScript template. Our backend is run on Reflex to allow our Python code to be converted into JavaScript and we also implement the Together AI API to work as our currency converter. Our site takes in two inputs from the user, the currency they want the usd amount to be converted into, and the amount of money (usd). Our AI then returns the conversion amount and it is displayed to the user in a chatbot type format.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
