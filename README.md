@@ -61,8 +61,8 @@
 
 ### Built With
 
-* [![Reflex][Reflex-url]
-* [![Together.ai][Together-url]
+* [[Reflex][Reflex-url]
+* [[Together.ai][Together-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
