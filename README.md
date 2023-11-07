@@ -123,7 +123,7 @@ Our web application, Econvert, is a web-based tool that allows the user to selec
 
 Alexis Guzman - [Linkedin](linkedin.com/in/alexis-guzman-cs9) - aleguzmancs9@gmail.com
 <br>Sergio Zavala - [Linkedin](https://www.linkedin.com/in/sergiozavala1/) - sezavala@csumb.edu
-<br>Jean-Luc Martel - https://www.linkedin.com/in/jean-luc-martel-csumb/ - jmartel@csumb.edu
+<br>Jean-Luc Martel - [Linkedin](https://www.linkedin.com/in/jean-luc-martel-csumb/) - jmartel@csumb.edu
 
 Project Link: [https://github.com/aleguzmancs9/Econvert.git](https://github.com/aleguzmancs9/Econvert.git)
 
