@@ -122,7 +122,7 @@ Our web application, Econvert, is a web-based tool that allows the user to selec
 ## Contact
 
 Alexis Guzman - [Linkedin](linkedin.com/in/alexis-guzman-cs9) - aleguzmancs9@gmail.com
-Sergio Zavala - [Linkedin](linkedin.com/in/sergiozavala1) - sezavala@csumb.edu
+<br>Sergio Zavala - [Linkedin](linkedin.com/in/sergiozavala1) - sezavala@csumb.edu
 
 Project Link: [https://github.com/aleguzmancs9/Econvert.git](https://github.com/aleguzmancs9/Econvert.git)
 
